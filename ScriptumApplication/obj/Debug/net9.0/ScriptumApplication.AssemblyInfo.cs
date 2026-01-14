@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScriptumApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+442828727c2f1324a093b7c395388e3ffdf9815b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScriptumApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScriptumApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

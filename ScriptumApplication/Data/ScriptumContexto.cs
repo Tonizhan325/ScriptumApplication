@@ -10,7 +10,6 @@ namespace ScriptumApplication.Data
         {
         }
         public DbSet<Usuario>? Usuarios { get; set; }
-        public DbSet<Rol>? Roles { get; set; }
         public DbSet<Libro>? Libros { get; set; }
         public DbSet<Autor>? Autores { get; set; }
         public DbSet<Descarga>? Descargas { get; set; }
@@ -21,7 +20,6 @@ namespace ScriptumApplication.Data
         {
             // Poner el nombre de las tablas en singular
             modelBuilder.Entity<Usuario>().ToTable("Usuario");
-            modelBuilder.Entity<Rol>().ToTable("Rol");
             modelBuilder.Entity<Libro>().ToTable("Libro");
             modelBuilder.Entity<Autor>().ToTable("Autor");
             modelBuilder.Entity<Descarga>().ToTable("Descarga");
