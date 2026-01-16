@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\ScriptumApplication.csproj": {}
+    "C:\\Users\\enrmaresc3\\Desktop\\SCRIPTUM APP (BUENO)\\ScriptumApplication\\ScriptumApplication\\ScriptumApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\ScriptumApplication.csproj": {
+    "C:\\Users\\enrmaresc3\\Desktop\\SCRIPTUM APP (BUENO)\\ScriptumApplication\\ScriptumApplication\\ScriptumApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\ScriptumApplication.csproj",
+        "projectUniqueName": "C:\\Users\\enrmaresc3\\Desktop\\SCRIPTUM APP (BUENO)\\ScriptumApplication\\ScriptumApplication\\ScriptumApplication.csproj",
         "projectName": "ScriptumApplication",
-        "projectPath": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\ScriptumApplication.csproj",
-        "packagesPath": "C:\\Users\\tonzha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\obj\\",
+        "projectPath": "C:\\Users\\enrmaresc3\\Desktop\\SCRIPTUM APP (BUENO)\\ScriptumApplication\\ScriptumApplication\\ScriptumApplication.csproj",
+        "packagesPath": "C:\\Users\\enrmaresc3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\enrmaresc3\\Desktop\\SCRIPTUM APP (BUENO)\\ScriptumApplication\\ScriptumApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tonzha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\enrmaresc3\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

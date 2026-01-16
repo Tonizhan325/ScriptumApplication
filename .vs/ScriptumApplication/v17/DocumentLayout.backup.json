@@ -1,98 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\",
+  "WorkspaceRootPath": "C:\\Users\\enrmaresc3\\Desktop\\SCRIPTUM APP (BUENO)\\ScriptumApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\enrmaresc3\\desktop\\scriptum app (bueno)\\scriptumapplication\\scriptumapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\enrmaresc3\\desktop\\scriptum app (bueno)\\scriptumapplication\\scriptumapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\controllers\\rese\u00F1ascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\controllers\\rese\u00F1ascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\controllers\\descargascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\controllers\\descargascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\controllers\\subidascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\controllers\\subidascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\migrations\\20260114141554_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\migrations\\20260114141554_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\models\\subida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\models\\subida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\data\\scriptumcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\data\\scriptumcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\models\\scriptumcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\models\\scriptumcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\models\\descarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\models\\descarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\models\\rese\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\models\\rese\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\tonzha\\documents\\scriptumapplication\\scriptumapplication\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|c:\\users\\enrmaresc3\\desktop\\scriptum app (bueno)\\scriptumapplication\\scriptumapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFBCC6E6-78B1-455A-9933-47392F6F31E0}|ScriptumApplication\\ScriptumApplication.csproj|solutionrelative:scriptumapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,292 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RolesController.cs",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Controllers\\RolesController.cs",
-              "RelativeDocumentMoniker": "ScriptumApplication\\Controllers\\RolesController.cs",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Controllers\\RolesController.cs",
-              "RelativeToolTip": "ScriptumApplication\\Controllers\\RolesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T14:35:30.078Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ScriptumApplication\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ScriptumApplication\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T14:31:20.257Z",
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\enrmaresc3\\Desktop\\SCRIPTUM APP (BUENO)\\ScriptumApplication\\ScriptumApplication\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ScriptumApplication\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\enrmaresc3\\Desktop\\SCRIPTUM APP (BUENO)\\ScriptumApplication\\ScriptumApplication\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ScriptumApplication\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-16T14:36:52.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DescargasController.cs",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Controllers\\DescargasController.cs",
-              "RelativeDocumentMoniker": "ScriptumApplication\\Controllers\\DescargasController.cs",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Controllers\\DescargasController.cs",
-              "RelativeToolTip": "ScriptumApplication\\Controllers\\DescargasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T14:30:16.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AutoresController.cs",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Controllers\\AutoresController.cs",
-              "RelativeDocumentMoniker": "ScriptumApplication\\Controllers\\AutoresController.cs",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Controllers\\AutoresController.cs",
-              "RelativeToolTip": "ScriptumApplication\\Controllers\\AutoresController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T14:29:40.461Z"
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\enrmaresc3\\Desktop\\SCRIPTUM APP (BUENO)\\ScriptumApplication\\ScriptumApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ScriptumApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\enrmaresc3\\Desktop\\SCRIPTUM APP (BUENO)\\ScriptumApplication\\ScriptumApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ScriptumApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T14:39:32.472Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GenerosController.cs",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Controllers\\GenerosController.cs",
-              "RelativeDocumentMoniker": "ScriptumApplication\\Controllers\\GenerosController.cs",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Controllers\\GenerosController.cs",
-              "RelativeToolTip": "ScriptumApplication\\Controllers\\GenerosController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T14:28:47.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SubidasController.cs",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Controllers\\SubidasController.cs",
-              "RelativeDocumentMoniker": "ScriptumApplication\\Controllers\\SubidasController.cs",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Controllers\\SubidasController.cs",
-              "RelativeToolTip": "ScriptumApplication\\Controllers\\SubidasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T14:27:55.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Rese\u00F1asController.cs",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Controllers\\Rese\u00F1asController.cs",
-              "RelativeDocumentMoniker": "ScriptumApplication\\Controllers\\Rese\u00F1asController.cs",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Controllers\\Rese\u00F1asController.cs",
-              "RelativeToolTip": "ScriptumApplication\\Controllers\\Rese\u00F1asController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T14:27:17.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LibrosController.cs",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Controllers\\LibrosController.cs",
-              "RelativeDocumentMoniker": "ScriptumApplication\\Controllers\\LibrosController.cs",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Controllers\\LibrosController.cs",
-              "RelativeToolTip": "ScriptumApplication\\Controllers\\LibrosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T14:26:21.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Controllers\\UsuariosController.cs",
-              "RelativeDocumentMoniker": "ScriptumApplication\\Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Controllers\\UsuariosController.cs",
-              "RelativeToolTip": "ScriptumApplication\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T14:25:36.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20260114141554_Inicial.cs",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Migrations\\20260114141554_Inicial.cs",
-              "RelativeDocumentMoniker": "ScriptumApplication\\Migrations\\20260114141554_Inicial.cs",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Migrations\\20260114141554_Inicial.cs",
-              "RelativeToolTip": "ScriptumApplication\\Migrations\\20260114141554_Inicial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T14:15:55.356Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ScriptumContexto.cs",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Data\\ScriptumContexto.cs",
-              "RelativeDocumentMoniker": "ScriptumApplication\\Data\\ScriptumContexto.cs",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Data\\ScriptumContexto.cs",
-              "RelativeToolTip": "ScriptumApplication\\Data\\ScriptumContexto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T14:11:35.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ScriptumApplication\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ScriptumApplication\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T14:10:48.109Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\appsettings.json",
-              "RelativeDocumentMoniker": "ScriptumApplication\\appsettings.json",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\appsettings.json",
-              "RelativeToolTip": "ScriptumApplication\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-13T19:38:33.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Program.cs",
-              "RelativeDocumentMoniker": "ScriptumApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Program.cs",
-              "RelativeToolTip": "ScriptumApplication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T19:28:21.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Autor.cs",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Models\\Autor.cs",
-              "RelativeDocumentMoniker": "ScriptumApplication\\Models\\Autor.cs",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Models\\Autor.cs",
-              "RelativeToolTip": "ScriptumApplication\\Models\\Autor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T18:56:03.548Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Subida.cs",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Models\\Subida.cs",
-              "RelativeDocumentMoniker": "ScriptumApplication\\Models\\Subida.cs",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Models\\Subida.cs",
-              "RelativeToolTip": "ScriptumApplication\\Models\\Subida.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T18:55:54.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Genero.cs",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Models\\Genero.cs",
-              "RelativeDocumentMoniker": "ScriptumApplication\\Models\\Genero.cs",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Models\\Genero.cs",
-              "RelativeToolTip": "ScriptumApplication\\Models\\Genero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T18:55:46.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Rese\u00F1a.cs",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Models\\Rese\u00F1a.cs",
-              "RelativeDocumentMoniker": "ScriptumApplication\\Models\\Rese\u00F1a.cs",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Models\\Rese\u00F1a.cs",
-              "RelativeToolTip": "ScriptumApplication\\Models\\Rese\u00F1a.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T18:55:37.922Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Descarga.cs",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Models\\Descarga.cs",
-              "RelativeDocumentMoniker": "ScriptumApplication\\Models\\Descarga.cs",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Models\\Descarga.cs",
-              "RelativeToolTip": "ScriptumApplication\\Models\\Descarga.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T18:55:29.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Rol.cs",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Models\\Rol.cs",
-              "RelativeDocumentMoniker": "ScriptumApplication\\Models\\Rol.cs",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Models\\Rol.cs",
-              "RelativeToolTip": "ScriptumApplication\\Models\\Rol.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T18:55:17.267Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Libro.cs",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Models\\Libro.cs",
-              "RelativeDocumentMoniker": "ScriptumApplication\\Models\\Libro.cs",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Models\\Libro.cs",
-              "RelativeToolTip": "ScriptumApplication\\Models\\Libro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T18:55:09.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "ScriptumApplication\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Models\\Usuario.cs",
-              "RelativeToolTip": "ScriptumApplication\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T18:54:59.832Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ScriptumContext.cs",
-              "DocumentMoniker": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Models\\ScriptumContext.cs",
-              "RelativeDocumentMoniker": "ScriptumApplication\\Models\\ScriptumContext.cs",
-              "ToolTip": "C:\\Users\\tonzha\\Documents\\ScriptumApplication\\ScriptumApplication\\Models\\ScriptumContext.cs",
-              "RelativeToolTip": "ScriptumApplication\\Models\\ScriptumContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T18:54:13.655Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\enrmaresc3\\Desktop\\SCRIPTUM APP (BUENO)\\ScriptumApplication\\ScriptumApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ScriptumApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\enrmaresc3\\Desktop\\SCRIPTUM APP (BUENO)\\ScriptumApplication\\ScriptumApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ScriptumApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAF4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T14:35:48.773Z"
             }
           ]
         }
