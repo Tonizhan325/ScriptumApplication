@@ -17,209 +17,209 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ScriptumApplication
 build_property.RootNamespace = ScriptumApplication
-build_property.ProjectDir = C:\Users\enrmaresc3\Desktop\SCRIPTUM APP (BUENO)\ScriptumApplication\ScriptumApplication\
+build_property.ProjectDir = C:\Users\enrmaresc3\Desktop\SCRIPTUM-APP-(BUENO)\ScriptumApplication\ScriptumApplication\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\enrmaresc3\Desktop\SCRIPTUM APP (BUENO)\ScriptumApplication\ScriptumApplication
+build_property.MSBuildProjectDirectory = C:\Users\enrmaresc3\Desktop\SCRIPTUM-APP-(BUENO)\ScriptumApplication\ScriptumApplication
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Autores/Create.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Autores/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3Jlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Autores/Delete.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Autores/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3Jlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Autores/Details.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Autores/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3Jlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Autores/Edit.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Autores/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3Jlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Autores/Index.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Autores/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3Jlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Descargas/Create.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Descargas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzY2FyZ2FzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Descargas/Delete.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Descargas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzY2FyZ2FzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Descargas/Details.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Descargas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzY2FyZ2FzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Descargas/Edit.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Descargas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzY2FyZ2FzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Descargas/Index.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Descargas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzY2FyZ2FzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Generos/Create.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Generos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Generos/Delete.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Generos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Generos/Details.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Generos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Generos/Edit.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Generos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Generos/Index.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Generos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Home/Index.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Home/Privacy.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Libros/Create.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Libros/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Libros/Delete.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Libros/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Libros/Details.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Libros/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Libros/Edit.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Libros/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Libros/Index.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Libros/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/ReseñaS/Create.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/ReseñaS/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZcOxYVNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/ReseñaS/Delete.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/ReseñaS/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZcOxYVNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/ReseñaS/Details.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/ReseñaS/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZcOxYVNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/ReseñaS/Edit.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/ReseñaS/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZcOxYVNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/ReseñaS/Index.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/ReseñaS/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZcOxYVNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Roles/Create.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Roles/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Roles/Delete.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Roles/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Roles/Details.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Roles/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Roles/Edit.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Roles/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Roles/Index.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Roles/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Shared/Error.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Subidas/Create.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Subidas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViaWRhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Subidas/Delete.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Subidas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViaWRhc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Subidas/Details.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Subidas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViaWRhc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Subidas/Edit.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Subidas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViaWRhc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Subidas/Index.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Subidas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViaWRhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Usuarios/Create.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Usuarios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Usuarios/Delete.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Usuarios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Usuarios/Details.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Usuarios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Usuarios/Edit.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Usuarios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Usuarios/Index.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Usuarios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/_ViewImports.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/_ViewStart.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/enrmaresc3/Desktop/SCRIPTUM APP (BUENO)/ScriptumApplication/ScriptumApplication/Views/Shared/_Layout.cshtml]
+[C:/Users/enrmaresc3/Desktop/SCRIPTUM-APP-(BUENO)/ScriptumApplication/ScriptumApplication/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-zglj9mlgeo
