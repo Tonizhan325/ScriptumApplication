@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scriptum</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <article class="imagen-logo">
+            <img src="images/logo.png">
+        </article>
+        <article class="nombre-cabecera">
+            <h1>SCRIPTUM</h1>
+            <p>Biblioteca digital colaborativa de acceso libre</p>
+        </article>
+        <article class="buscador">
+            <p>Buscar libro</p>
+            <input type="text">
+        </article>
+        <article class="datos-sesion">
+            <a href="#" class="btn">Crear cuenta</a>
+        </article>
+    </header>
+    
+    <nav>
+        <a href="#">Inicio</a>
+        <a href="#">Catálogo</a>
+        <a href="#">Acceder</a>
+        <a href="#">Registrarse</a>
+    </nav>
+    <nav> <!--Navegación para la página de Catálogo-->
+        <a href="#">Narrativa</a>
+        <a href="#">Divulgación y académicos</a>
+        <a href="#">Cómic y Manga</a>
+        <a href="#">Infantil</a>
+    </nav>
+    
+    <main>
+        <section>
+            <h2>¿Qué es Scriptum?</h2>
+            <p>
+                Scriptum es una biblioteca digital colaborativa y gratuita que permite
+                consultar y compartir libros en formato digital, facilitando el acceso
+                abierto al conocimiento.
+            </p>
+        </section>
+
+        <hr>
+    
+        <section>
+            <h2>Explora el catálogo</h2>
+            <p>
+                Accede a una amplia colección de libros organizados por autor, género
+                y año de publicación.
+            </p>
+
+            <div class="carrusel-libros">
+                <button class="prev">‹</button>
+            
+                <div class="carrusel-track">
+                    <section class="slide-libro">
+                        <img src="images/libro1.jpg" alt="Libro 1">
+                        <h3>+3000 obras de Narrativa</h3>
+                        <a href="#" class="btn">Ver libros</a>
+                    </section>             
+                    <section class="slide-libro">
+                        <img src="images/libro2.jpg" alt="Libro 2">
+                        <h3>+1000 publicaciones científicas y divulgativas</h3>
+                        <a href="#" class="btn">Ver libros</a>
+                    </section>
+                    <section class="slide-libro">
+                        <img src="images/libro3.jpg" alt="Libro 3">
+                        <h3>Comics, mangas y mucho más</h3>
+                        <a href="#" class="btn">Ver libros</a>
+                    </section>
+                    <!--A partir de aquí son pruebas-->
+                    
+                </div>
+            
+                <button class="next">›</button>
+            </div>
+
+        </section>
+
+        <hr>
+    
+        <section>
+            <h2>Participa en la comunidad</h2>
+            <p>
+                Los usuarios registrados pueden subir libros en PDF y escribir reseñas
+                para compartir su experiencia con otros lectores. Esto es una prueba.
+            </p>
+            <a href="#" class="btn">Crear cuenta</a>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2026 Scriptum · Biblioteca digital colaborativa</p>
+    </footer>
+    
+    <script src="script.js"></script>
+    </body>
+</html>
